@@ -1,6 +1,5 @@
 require 'csv'
 require 'countries'
-require 'gruff'
 
 data = {}
 total_events = 0
